@@ -1,0 +1,20 @@
+Weather in Texas:
+Temperature: 28.31°C
+Description: Clear sky
+Weather data for london not found!
+Weather data for paris not found!
+Weather in London:
+Temperature: 19.72°C
+Description: Broken clouds
+Weather in London:
+Temperature: 19.72°C
+Description: Broken clouds
+Weather in Paris:
+Temperature: 21.36°C
+Description: Clear sky
+Weather in Dubai:
+Temperature: 38.77°C
+Description: Clear sky
+Weather in Paris:
+Temperature: 21.36°C
+Description: Clear sky
